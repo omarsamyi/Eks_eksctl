@@ -1,3 +1,13 @@
+<h2 align="center"><u>EKS eksctl</u></h2>
+
+![EKS eksctl](images/eksctl_eks_cluster.png)
+<h4 align="center"> EKS eksctl </h4>
+
+<p align="center">
+<br>
+</p>
+
+### [+] Description
 This project demonstrates setting up an EKS cluster with eksctl utility.
 
 ##### Steps to Create EKS Cluster:
@@ -27,4 +37,6 @@ This project demonstrates setting up an EKS cluster with eksctl utility.
 
 ### [+] Find me on 
 <a href="https://m.me/https://www.linkedin.com/in/omarsamyi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-https://www.linkedin.com/in/omarsamyi/-blue?style=for-the-badge&logo=linkedin"></a>
+
+
 
