@@ -10,6 +10,8 @@
 ### [+] Description
 This project demonstrates setting up an EKS cluster with eksctl utility.
 
+<img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+
 ##### Steps to Create EKS Cluster:
 ---
 + Clone this  repo: `https://github.com/omarsamyi/Eks_eksctl`
